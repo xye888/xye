@@ -147,18 +147,18 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8
 now新闻,http://livetv.dnsfor.me:80/channel.4.m3u8
 有线新闻,http://livetv.dnsfor.me/channel.5.m3u8#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 
+4K,#genre#
+CCTV4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+SiTV欢笑剧场 12M2160,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+纯享4K 25M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+纯享4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
+纯享4K 30M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+4K修复 7M2160HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 
 
-
-HK,#genre#
-HK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8#https://cdn.hklive.tv/xxxx/31/index.m3u8
-HK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8#https://cdn.hklive.tv/xxxx/32/index.m3u8#http://cdn-cn.hkyoutv.com/hls/32/index.m3u8#
-HK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8#https://cdn.hklive.tv/xxxx/33/index.m3u8
-翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hklive.tv/xxxx/81/index.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#
-J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hklive.tv/xxxx/82/index.m3u8#http://cdn-cn.hkyoutv.com/hls/82/index.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8#
-无限新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#https://cdn.hklive.tv/xxxx/83/index.m3u8#http://cdn-cn.hkyoutv.com/hls/83/index.m3u8#
-VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-DTMB83,https://cdn.hkdtmb.com/hls/83/index.m3u8
 
 
 IPV6,#genre#
@@ -303,3 +303,17 @@ CCTV-17,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001018000000
 活动频道3,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285866/main.m3u8?IASHttpSessionId=OTT
 活动频道4,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285875/main.m3u8?IASHttpSessionId=OTT
 中国体育,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000197048/main.m3u8?IASHttpSessionId=OTT
+
+
+
+
+
+HK,#genre#
+HK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8#https://cdn.hklive.tv/xxxx/31/index.m3u8
+HK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8#https://cdn.hklive.tv/xxxx/32/index.m3u8#http://cdn-cn.hkyoutv.com/hls/32/index.m3u8#
+HK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8#https://cdn.hklive.tv/xxxx/33/index.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hklive.tv/xxxx/81/index.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hklive.tv/xxxx/82/index.m3u8#http://cdn-cn.hkyoutv.com/hls/82/index.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8#
+无限新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#https://cdn.hklive.tv/xxxx/83/index.m3u8#http://cdn-cn.hkyoutv.com/hls/83/index.m3u8#
+VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+DTMB83,https://cdn.hkdtmb.com/hls/83/index.m3u8
