@@ -146,7 +146,7 @@ CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/i
 无线新闻台,http://xye201.v6.army:8905/tvbapp.php?id=C&type=hd
 无线新闻台,https://s2.pub/cctv-12
 无线新闻台,http://137.175.30.127:9080/hls/inews.m3u8
-测试台,https://sc2024.stream-link.org/live/1321212781.php?id=h26sb
+无线新闻台,https://sc2024.stream-link.org/live/1321212781.php?id=h26sb
 有线新闻台,https://s2.pub/cctv-10
 江门综合,http://xye201.v6.army:8905/gudou.php?id=jmzhhd$谷豆php
 广东珠江,http://xye201.v6.army:8905/cd.php?id=gdzj$触电php
@@ -1265,8 +1265,6 @@ BesTV Live高清,http://125.92.141.20:4022/udp/239.253.43.118:5146
 
 
 港澳台,#genre#
-翡翠台,https://sc2024.stream-link.org/live/521962290.php?id=h30ds#https://sc2024.stream-link.org/live/521962290.php?id=h00zg
-无线新闻,https://sc2024.stream-link.org/live/521962290.php?id=h92tu#https://sc2024.stream-link.org/live/521962290.php?id=h68hc
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8 
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
