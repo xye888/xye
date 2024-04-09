@@ -1,35 +1,32 @@
-4k,#genre#
-爱上4K,http://171.221.240.108:808/hls/38/index.m3u8
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4K,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8$肥羊IPTV6
-爱上4K ,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8$肥羊IPTV6?IAS
-4K 修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8$肥羊IPTV6
-纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8$肥羊IPTV6
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8$肥羊IPTV6
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$肥羊IPTV6
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$肥羊IPTV6
-CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$肥羊IPTV6
-CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$肥羊IPTV6
-CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$肥羊IPTV6
-
 
 
 
 央视,#genre#
-CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
-CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
-CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5+,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
+CCTV4K,http://xye201.v6.army:8905/ys.php?id=cctv4k$ysphp
+CCTV8K,http://xye201.v6.army:8905/ys.php?id=cctv8k$ysphp
+CCTV1,http://xye201.v6.army:8905/ys.php?id=cctv1$ysphp
+CCTV2,http://xye201.v6.army:8905/ys.php?id=cctv2$ysphp
+CCTV3,http://xye201.v6.army:8905/ys.php?id=cctv3$ysphp
+CCTV4,http://xye201.v6.army:8905/ys.php?id=cctv4$ysphp
+CCTV5,http://xye201.v6.army:8905/ys.php?id=cctv5$ysphp
+CCTV5+,http://xye201.v6.army:8905/ys.php?id=cctv5p$ysphp
+CCTV6,http://xye201.v6.army:8905/ys.php?id=cctv6$ysphp
+CCTV7,http://xye201.v6.army:8905/ys.php?id=cctv7$ysphp
+CCTV8,http://xye201.v6.army:8905/ys.php?id=cctv8$ysphp
+CCTV9,http://xye201.v6.army:8905/ys.php?id=cctv9$ysphp
+CCTV10,http://xye201.v6.army:8905/ys.php?id=cctv10$ysphp
+CCTV11,http://xye201.v6.army:8905/ys.php?id=cctv11$ysphp
+CCTV12,http://xye201.v6.army:8905/ys.php?id=cctv12$ysphp
+CCTV13,http://xye201.v6.army:8905/ys.php?id=cctv13$ysphp
+CCTV14,http://xye201.v6.army:8905/ys.php?id=cctv14$ysphp
+CCTV15,http://xye201.v6.army:8905/ys.php?id=cctv15$ysphp
+CCTV16,http://xye201.v6.army:8905/ys.php?id=cctv16$ysphp
+CCTV164K,http://xye201.v6.army:8905/ys.php?id=cctv16-4k$ysphp
+CCTV17,http://xye201.v6.army:8905/ys.php?id=cctv17$ysphp
+
+
+
+
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$肥羊IPTV
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$肥羊IPTV
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$肥羊IPTV
