@@ -2,50 +2,6 @@
 
 
 央视,#genre#
-CCTV4K,http://xye201.v6.army:8905/ys.php?id=cctv4k$ysphp
-CCTV8K,http://xye201.v6.army:8905/ys.php?id=cctv8k$ysphp
-CCTV1,http://xye201.v6.army:8905/ys.php?id=cctv1$ysphp
-CCTV2,http://xye201.v6.army:8905/ys.php?id=cctv2$ysphp
-CCTV3,http://xye201.v6.army:8905/ys.php?id=cctv3$ysphp
-CCTV4,http://xye201.v6.army:8905/ys.php?id=cctv4$ysphp
-CCTV5,http://xye201.v6.army:8905/ys.php?id=cctv5$ysphp
-CCTV5+,http://xye201.v6.army:8905/ys.php?id=cctv5p$ysphp
-CCTV6,http://xye201.v6.army:8905/ys.php?id=cctv6$ysphp
-CCTV7,http://xye201.v6.army:8905/ys.php?id=cctv7$ysphp
-CCTV8,http://xye201.v6.army:8905/ys.php?id=cctv8$ysphp
-CCTV9,http://xye201.v6.army:8905/ys.php?id=cctv9$ysphp
-CCTV10,http://xye201.v6.army:8905/ys.php?id=cctv10$ysphp
-CCTV11,http://xye201.v6.army:8905/ys.php?id=cctv11$ysphp
-CCTV12,http://xye201.v6.army:8905/ys.php?id=cctv12$ysphp
-CCTV13,http://xye201.v6.army:8905/ys.php?id=cctv13$ysphp
-CCTV14,http://xye201.v6.army:8905/ys.php?id=cctv14$ysphp
-CCTV15,http://xye201.v6.army:8905/ys.php?id=cctv15$ysphp
-CCTV16,http://xye201.v6.army:8905/ys.php?id=cctv16$ysphp
-CCTV164K,http://xye201.v6.army:8905/ys.php?id=cctv16-4k$ysphp
-CCTV17,http://xye201.v6.army:8905/ys.php?id=cctv17$ysphp
-
-
-
-
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$肥羊IPTV
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$肥羊IPTV
-CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$肥羊IPTV
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8$肥羊IPTV
-CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$肥羊IPTV
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8$肥羊IPTV
-CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$肥羊IPTV
-CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$肥羊IPTV
-CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$肥羊IPTV
-CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$肥羊IPTV
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$肥羊IPTV
-CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8$肥羊IPTV
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$肥羊IPTV
-CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$肥羊IPTV
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$肥羊IPTV
-CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$肥羊IPTV
-CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$肥羊IPTV
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$肥羊IPTV
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$肥羊IPTV
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$肥羊IPTV6
 CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$肥羊IPTV6
 CCTV3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$肥羊IPTV6
@@ -77,6 +33,32 @@ CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
+
+
+
+
+CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$肥羊IPTV
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$肥羊IPTV
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$肥羊IPTV
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8$肥羊IPTV
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$肥羊IPTV
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8$肥羊IPTV
+CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$肥羊IPTV
+CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$肥羊IPTV
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$肥羊IPTV
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$肥羊IPTV
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$肥羊IPTV
+CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8$肥羊IPTV
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$肥羊IPTV
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$肥羊IPTV
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$肥羊IPTV
+CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$肥羊IPTV
+CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$肥羊IPTV
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$肥羊IPTV
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$肥羊IPTV
+
+
+
 CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -95,6 +77,27 @@ CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CCTV风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 
+CCTV4K,http://xye201.v6.army:8905/ys.php?id=cctv4k$ysphp
+CCTV8K,http://xye201.v6.army:8905/ys.php?id=cctv8k$ysphp
+CCTV1,http://xye201.v6.army:8905/ys.php?id=cctv1$ysphp
+CCTV2,http://xye201.v6.army:8905/ys.php?id=cctv2$ysphp
+CCTV3,http://xye201.v6.army:8905/ys.php?id=cctv3$ysphp
+CCTV4,http://xye201.v6.army:8905/ys.php?id=cctv4$ysphp
+CCTV5,http://xye201.v6.army:8905/ys.php?id=cctv5$ysphp
+CCTV5+,http://xye201.v6.army:8905/ys.php?id=cctv5p$ysphp
+CCTV6,http://xye201.v6.army:8905/ys.php?id=cctv6$ysphp
+CCTV7,http://xye201.v6.army:8905/ys.php?id=cctv7$ysphp
+CCTV8,http://xye201.v6.army:8905/ys.php?id=cctv8$ysphp
+CCTV9,http://xye201.v6.army:8905/ys.php?id=cctv9$ysphp
+CCTV10,http://xye201.v6.army:8905/ys.php?id=cctv10$ysphp
+CCTV11,http://xye201.v6.army:8905/ys.php?id=cctv11$ysphp
+CCTV12,http://xye201.v6.army:8905/ys.php?id=cctv12$ysphp
+CCTV13,http://xye201.v6.army:8905/ys.php?id=cctv13$ysphp
+CCTV14,http://xye201.v6.army:8905/ys.php?id=cctv14$ysphp
+CCTV15,http://xye201.v6.army:8905/ys.php?id=cctv15$ysphp
+CCTV16,http://xye201.v6.army:8905/ys.php?id=cctv16$ysphp
+CCTV164K,http://xye201.v6.army:8905/ys.php?id=cctv16-4k$ysphp
+CCTV17,http://xye201.v6.army:8905/ys.php?id=cctv17$ysphp
 
 
 
@@ -102,30 +105,7 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 
 
 卫视,#genre#
-北京卫视,http://xye201.v6.army:8905/ys.php?id=bjws$ysphp
-东方卫视,http://xye201.v6.army:8905/ys.php?id=dfws$ysphp
-天津卫视,http://xye201.v6.army:8905/ys.php?id=tjws$ysphp
-重庆卫视,http://xye201.v6.army:8905/ys.php?id=cqws$ysphp
-黑龙江卫视,http://xye201.v6.army:8905/ys.php?id=hljws$ysphp
-辽宁卫视,http://xye201.v6.army:8905/ys.php?id=lnws$ysphp
-河北卫视,http://xye201.v6.army:8905/ys.php?id=hbws$ysphp
-山东卫视,http://xye201.v6.army:8905/ys.php?id=sdws$ysphp
-安徽卫视,http://xye201.v6.army:8905/ys.php?id=ahws$ysphp
-河南卫视,http://xye201.v6.army:8905/ys.php?id=hnws$ysphp
-湖北卫视,http://xye201.v6.army:8905/ys.php?id=hubws$ysphp
-湖南卫视,http://xye201.v6.army:8905/ys.php?id=hunws$ysphp
-江西卫视,http://xye201.v6.army:8905/ys.php?id=jxws$ysphp
-江苏卫视,http://xye201.v6.army:8905/ys.php?id=jsws$ysphp
-浙江卫视,http://xye201.v6.army:8905/ys.php?id=zjws$ysphp
-东南卫视,http://xye201.v6.army:8905/ys.php?id=dnws$ysphp
-广东卫视,http://xye201.v6.army:8905/ys.php?id=gdws$ysphp
-深圳卫视,http://xye201.v6.army:8905/ys.php?id=szws$ysphp
-广西卫视,http://xye201.v6.army:8905/ys.php?id=gxws$ysphp
-贵州卫视,http://xye201.v6.army:8905/ys.php?id=gzws$ysphp
-四川卫视,http://xye201.v6.army:8905/ys.php?id=scws$ysphp
-新疆卫视,http://xye201.v6.army:8905/ys.php?id=xjws$ysphp
-海南卫视,http://xye201.v6.army:8905/ys.php?id=hinws$ysphp
-兵团卫视,http://xye201.v6.army:8905/ys.php?id=btws$ysphp
+
 
 湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$肥羊IPTV6
 浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$肥羊IPTV6
@@ -206,6 +186,31 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8$肥羊IPTV
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8$肥羊IPTV
 
+
+北京卫视,http://xye201.v6.army:8905/ys.php?id=bjws$ysphp
+东方卫视,http://xye201.v6.army:8905/ys.php?id=dfws$ysphp
+天津卫视,http://xye201.v6.army:8905/ys.php?id=tjws$ysphp
+重庆卫视,http://xye201.v6.army:8905/ys.php?id=cqws$ysphp
+黑龙江卫视,http://xye201.v6.army:8905/ys.php?id=hljws$ysphp
+辽宁卫视,http://xye201.v6.army:8905/ys.php?id=lnws$ysphp
+河北卫视,http://xye201.v6.army:8905/ys.php?id=hbws$ysphp
+山东卫视,http://xye201.v6.army:8905/ys.php?id=sdws$ysphp
+安徽卫视,http://xye201.v6.army:8905/ys.php?id=ahws$ysphp
+河南卫视,http://xye201.v6.army:8905/ys.php?id=hnws$ysphp
+湖北卫视,http://xye201.v6.army:8905/ys.php?id=hubws$ysphp
+湖南卫视,http://xye201.v6.army:8905/ys.php?id=hunws$ysphp
+江西卫视,http://xye201.v6.army:8905/ys.php?id=jxws$ysphp
+江苏卫视,http://xye201.v6.army:8905/ys.php?id=jsws$ysphp
+浙江卫视,http://xye201.v6.army:8905/ys.php?id=zjws$ysphp
+东南卫视,http://xye201.v6.army:8905/ys.php?id=dnws$ysphp
+广东卫视,http://xye201.v6.army:8905/ys.php?id=gdws$ysphp
+深圳卫视,http://xye201.v6.army:8905/ys.php?id=szws$ysphp
+广西卫视,http://xye201.v6.army:8905/ys.php?id=gxws$ysphp
+贵州卫视,http://xye201.v6.army:8905/ys.php?id=gzws$ysphp
+四川卫视,http://xye201.v6.army:8905/ys.php?id=scws$ysphp
+新疆卫视,http://xye201.v6.army:8905/ys.php?id=xjws$ysphp
+海南卫视,http://xye201.v6.army:8905/ys.php?id=hinws$ysphp
+兵团卫视,http://xye201.v6.army:8905/ys.php?id=btws$ysphp
 
 
 
